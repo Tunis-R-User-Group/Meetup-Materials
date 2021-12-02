@@ -16,4 +16,4 @@ Please find below a list of the previous meetups organized by Tunis R User Group
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
-| June 17, 2021 | 4AM - 7PM | Introduction to Proteomics Using R | Workshop | [Dr. Laurent Gattou](https://lgatto.github.io/about/) | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), [Dr. Hédia Tnani](https://github.com/htnani), [Amal Tlili](https://www.linkedin.com/in/amal-tlili-a9b473172/) | Zoom | [Recording video](https://youtu.be/GlTRN2jbEa4), [teaching material](https://rformassspectrometry.github.io/docs/) |
+| June 17, 2021 | 4PM - 7PM | Introduction to Proteomics Using R | Workshop | [Dr. Laurent Gattou](https://lgatto.github.io/about/) | [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid-b10300112/), [Dr. Hédia Tnani](https://github.com/htnani), [Amal Tlili](https://www.linkedin.com/in/amal-tlili-a9b473172/) | Zoom | [Recording video](https://youtu.be/GlTRN2jbEa4), [teaching material](https://rformassspectrometry.github.io/docs/) |
