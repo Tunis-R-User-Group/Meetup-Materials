@@ -8,7 +8,7 @@ Anyone worldwide with an interest in R is encouraged to participate!
 
 You might keep an eye out for [our Meetup group](https://www.meetup.com/tunis-r-user-group/).
 
-If you have missed ou previous meetups, We are happy to share all the recording videos on our YouTube channel. Please have a look [here](https://www.youtube.com/watch?v=GlTRN2jbEa4)
+If you have missed our previous meetups, We are happy to share all the recording videos on our YouTube channel. Please have a look [here](https://www.youtube.com/watch?v=GlTRN2jbEa4)
 
 Please find below a list of the previous meetups organized by Tunis R User Group. You are welcome to join [our Meetup group](https://www.meetup.com/pyladies-tunis/) to be notified about our next activities!
 
